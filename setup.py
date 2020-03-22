@@ -6,7 +6,7 @@ setup(
     name="tenntucky-lambdata-pt4",
     version="1.0",
     author="Kole Goldsberry",
-    author_email="datacreativellc@gmail.com",
+    author_email="kole.goldsberry@gmail.com",
     description="For example purposes",
     long_description=long_description,
     long_description_content_type="text/markdown", # required if using a md file for long desc
