@@ -1,4 +1,9 @@
 
 # my_script.py
 
-print('Happy Sunday. Be Calm sir.')
+import pandas
+
+print("Happy Sunday. Be Calm sir.")
+
+df = pandas.DataFrame({"x":[1,2,3], "y":[4,5,6]})
+print(df.head())
